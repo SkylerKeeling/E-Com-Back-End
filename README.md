@@ -10,7 +10,7 @@ To install, download the code from the Github repository.
 
 ## Screenshot
 
-![alt text](assets/Photo.png)
+![alt text](/Develop/assets/Photo.png)
 
 ## Credits
 
